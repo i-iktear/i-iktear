@@ -8,14 +8,12 @@
 
 [![HitCount](http://hits.dwyl.com/Raghav-byte/Raghav-byte.svg)](http://hits.dwyl.com/Raghav-byte/Raghav-byte)
 
-I'm a Technology Enthusiast , Currently in final year  at Daffodil International University 🤓
+Iktear Uddin here.I'm a Technology Enthusiast , Currently in final year  at Daffodil International University 🤓
 
-- 🔭 I’m currently working on taking rest 
 - 🌱 I’m currently learning Fullstack Developement
 - 👯 I’m looking to collaborate on Frontend projects and Basic Web Dev stuff
 - 🤔 I’m looking for help in learning about Web Dev and JavaScript 
 - 💬 Ask me about anything and everything 
-- 📫 How to reach me:
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
 
