@@ -7,7 +7,9 @@
 <samp>
     <h2 align="Center">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </samp>
-  
+ 
+</p>
+
   I'm a Computer Science Enthusiast , Currently in pre-final year  at SSIPMT Raipur 🤓
 
 - 🔭 I’m currently working on taking rest 
@@ -20,6 +22,3 @@
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:shuklaraghav321@gmail.com)
 ,[![Twitter Badge](https://img.shields.io/badge/-Raghav-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_raghavit)](https://twitter.com/_raghavit)
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
-
-
-</p>
