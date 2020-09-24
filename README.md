@@ -5,8 +5,7 @@
   <br>
 
 <samp>
-    <h2 align="Center">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3 align="Center"> I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.facebook.com/emon.aurk">Iktear Uddin</a></b>.
-    <br>I'm a Software Engineering Undergraduate Student from Bangladesh.<br>
+    <h2 align="Center">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </samp>
 
 
