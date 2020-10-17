@@ -5,7 +5,7 @@
 </p>
 <h2 align="Center">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
-Iktear Uddin here.I'm a Technology Enthusiast , Currently in final year  at Daffodil International University 🤓
+Iktear Uddin here.I'm a self learner and also a technology enthusiast , Currently in final year  at Daffodil International University 🤓
 
 - 🌱 I’m currently learning Fullstack Developement
 - 👯 I’m looking to collaborate on Frontend projects and Basic Web Dev stuff
