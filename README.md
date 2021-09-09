@@ -5,13 +5,14 @@
 </p>
 <h2 align="Center">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
-Iktear Uddin here.I'm a self learner and also a technology enthusiast , Currently in final year  at Daffodil International University 🤓
+Iktear Uddin here.I am a motivated software engineering graduate from Daffodil International University who excels at ‘Javascript’ and ‘React.js
 
-- 🌱 I’m currently learning Fullstack Developement
+- 🌱 I’m currently working on React.js Projects
 - 👯 I’m looking to collaborate on Frontend projects and Basic Web Dev stuff
 - 🤔 I’m looking for help in learning about Web Dev and JavaScript 
-- 💬 Ask me about anything and everything 
-- ⚡ Fun fact: Jack of all trades , Master of None ! 
+- 💬 Ask me about anything related to Javascript & React
 
+
+![Iktear Uddin's Github Stats](https://github-readme-stats.vercel.app/api?username=i-iktear&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
