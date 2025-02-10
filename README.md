@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Iktear Uddin here. I am a motivated software engineer from Bangladesh. I have around 2+ years of experience building Secure and Scalable frontend applications in React as well as working experience with Angular, VueJS, and React Native too.
+🌱 Iktear Uddin here. I am a motivated software engineer from Bangladesh. I have around 4+ years of experience building Secure and Scalable frontend applications in React as well as working experience with Angular, VueJS, and React Native too.
 
 
 ## 🌐 Socials:
